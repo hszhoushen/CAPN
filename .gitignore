@@ -22,6 +22,8 @@ logs/
 glove/
 # build
 build
+# output
+output
 
 # ipython/jupyter notebooks
 #*.ipynb
